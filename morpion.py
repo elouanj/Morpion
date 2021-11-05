@@ -3,7 +3,7 @@ from pygame import *
 from pygame.locals import *
 
 init()
-
+   
 def placerRond(pos_souris):
 	minLarg = 20
 	maxLarg = 152
